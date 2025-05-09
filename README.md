@@ -8,7 +8,7 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've picked up along my journey.
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
@@ -29,5 +29,5 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kevinma11/)
 
- or give some ♥ on [mail](mailto:kevin.ma.work11@gmail.com) .
+ or send me an email on [mail](mailto:kevin.ma.work11@gmail.com) .
 
