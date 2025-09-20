@@ -1,7 +1,7 @@
 
 # Hi, I am Kevin Ma 👨‍💻
 
-I am a Full Stack Software Developer and in the process of learning Machine-Learning/Artificial Intelligence. I love to work with and learn new technologies so please contact me for potential opportunities.
+I am a Full Stack Software Developer and in the process of learning Machine-Learning/Artificial Intelligence. I love working with and learning new technologies so please contact me for potential opportunities.
 
 ### 🔭 Have a look at my [website]().
 
